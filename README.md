@@ -6,10 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently a student
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Mobile Development
-- 🤔 I’m looking for help with life
-- 💬 Ask me about Android Development
+- 🌱 I’m an android developer
+- 👯 I’m looking to collaborate with Mobile Developers
 - 📫 How to reach me: [Email] mankum8798@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I listen to 90's songs

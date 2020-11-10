@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Mobile Development
 - 🤔 I’m looking for help with life
 - 💬 Ask me about Android Development
-- 📫 How to reach me: mankum8798@gmail.com
+- 📫 How to reach me: [Email] mankum8798@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I listen to 90's songs
 

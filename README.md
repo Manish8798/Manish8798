@@ -10,5 +10,4 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate with other **Mobile Developers**
 - 📫 How to reach me: **[Email] mankum8798@gmail.com**
 - 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **I listen to 90's songs**
 

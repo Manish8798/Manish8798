@@ -8,6 +8,6 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently a **Student**
 - 🌱 I’m an **Android Developer**
 - 👯 I’m looking to collaborate with other **Mobile Developers**
-- 📫 How to reach me: **[Email](mankum8798@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/manish-kumar-a1a2321b3)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manish-kumar-a1a2321b3)**
 - 😄 Pronouns: **He/His**
 

@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 👨‍🎓 I’m currently a **Student**
-- 🖥 I’m an **Android Developer**
+- 🖥 I’m an **Mobile Developer**
 - 🤝 I’m looking to collaborate with other **Mobile Developers**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manish-kumar-a1a2321b3)**
 - 🧑 Pronouns: **He/His**
